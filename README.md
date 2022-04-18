@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... web developing
 - 🌱 I’m currently learning ... front end developing
 - 💞️ I’m looking to collaborate on ... front end web developer
-- 📫 How to reach me ... 
+- 📫 How to reach me ... mdkhurshidalam97msd@gmail.com
 
 <!---
 Khurshid10011997/Khurshid10011997 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
